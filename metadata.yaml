@@ -25,6 +25,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Diary of Richard Cocks, Volume II
 
   Cape-Merchant in the English Factory in Japan 1615-1622
